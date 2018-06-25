@@ -1,0 +1,23 @@
+
+.address {
+   border-width: 2px;
+   border-style: solid;
+   padding: 10px 10px 0px 10px;
+   color: white;
+   background-color: black;
+   display: inline-block;
+   text-align: center;
+}
+
+.normal {
+    height: 50px;
+    width: 800px;
+    text-align: center;
+}
+
+.paragraph1{
+    text-align: left;
+}
+.paragraph2 {
+    text-align: center;
+}
